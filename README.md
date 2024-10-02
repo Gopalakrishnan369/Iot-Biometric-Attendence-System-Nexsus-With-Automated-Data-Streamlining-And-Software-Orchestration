@@ -1,0 +1,2 @@
+# Iot-Biometric-Attendence-System-Nexsus-With-Automated-Data-Streamlining-And-Software-Orchestration
+• Developed a IoT-based student attendance system incorporating embedded  software application, leveraging sensor technology to automate attendance  and Designed and implemented a user-friendly interface for the embedded  software application, enabling a seamless interaction for both student and teachers and ensuring data accuracy.
